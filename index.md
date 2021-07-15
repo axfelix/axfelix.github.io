@@ -20,7 +20,7 @@ here is some work I'm proud of:
 
 - I keep a [complete-ish academic CV](agarnett.pdf); I've written recently about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
 
-- I produced an irregular podcast with my friend [Nic Weber](http://nicweber.info/) called [Success is Stupid](sis0.mp3) (currently on hiatus, waiting for a good turnkey solution to self-host the archives).
+- I produced an irregular podcast with my friend [Nic Weber](http://nicweber.info/) called [Success is Stupid](https://github.com/axfelix/axfelix.github.io/raw/master/sis0.mp3) (currently on hiatus, waiting for a good turnkey solution to self-host the archives).
 
 - I married [Justyna Berzowska](http://ambientstructures.ca/), who is a content strategist and user researcher that you should hire!
 
@@ -53,5 +53,7 @@ here is some work I'm proud of:
 - I do my best to [reconcile](https://corona.whosyourdad.de/) myself to America in difficult times (warning: potentially upsetting imagery, desktop-only).
 
 - I [built a tower tumbling through your HVAC](https://www.youtube.com/watch?v=B4eSU1dNJA0).
+
+- In more obscure modding days I replaced the entire (ogg encoded!) buttrock soundtrack of the PC release of Devil May Cry 3 with Sunset Rubdown tracks re-cut to loop properly, which is dumbly and roughly right about my [aesthetic](https://1drv.ms/u/s!AptLliZZZbXXi5dlhPsixgb2vANfDA?e=iJeC1a).
 
 I [tweet](https://twitter.com/axfelix) too much, and am comforted that I can be so full of shit in my less-professional life in part because I am a member of the SFU Faculty Association. I would love to agitate for you to have a collective bargaining union of your own if you don't already.
