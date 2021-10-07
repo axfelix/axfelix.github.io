@@ -1,10 +1,8 @@
-hi, I'm Alex! I'm a digital preservation / research data management technologist and librarian at Simon Fraser University in Vancouver.
+hi, I'm Alex! here is some work I'm proud of:
 
-here is some work I'm proud of:
+- I created the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
 
-- I maintain the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
-
-- I'm currently leading a project to implement usable, lightweight zero-knowledge [encryption](https://github.com/jza201/frdr-secure-data) of sensitive data for repository deposit, using Hashicorp's [Vault](https://www.vaultproject.io/) platform, with Jin Zhang.
+- I led a project to implement usable, lightweight zero-knowledge [encryption](https://github.com/jza201/frdr-secure-data) of sensitive data for repository deposit, using Hashicorp's [Vault](https://www.vaultproject.io/) platform, with Jin Zhang.
 
 - I wrote the [desktop client](https://github.com/usask-rc/radiam-agent-releases/releases), which uses Electron and Python packed into a single binary for both GUI and CLI usage, for an indexer tool we developed called [Radiam](https://radiam.readthedocs.io/en/latest/), with my colleague Yang Zhou.
 
@@ -56,4 +54,4 @@ here is some work I'm proud of:
 
 - In more obscure modding days I replaced the entire (ogg encoded!) buttrock soundtrack of the PC release of Devil May Cry 3 with Sunset Rubdown tracks re-cut to loop properly, which is dumbly and roughly right about my [aesthetic](https://1drv.ms/u/s!AptLliZZZbXXi5dlhPsixgb2vANfDA?e=iJeC1a).
 
-I [tweet](https://twitter.com/axfelix) too much, and am comforted that I can be so full of shit in my less-professional life in part because I am a member of the SFU Faculty Association. I would love to agitate for you to have a collective bargaining union of your own if you don't already.
+I [tweet](https://twitter.com/axfelix) too much.
