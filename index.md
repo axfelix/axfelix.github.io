@@ -52,6 +52,4 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I [built a tower tumbling through your HVAC](https://www.youtube.com/watch?v=B4eSU1dNJA0).
 
-- In more obscure modding days I replaced the entire (ogg encoded!) buttrock soundtrack of the PC release of Devil May Cry 3 with Sunset Rubdown tracks re-cut to loop properly, which is dumbly and roughly right about my [aesthetic](https://1drv.ms/u/s!AptLliZZZbXXi5dlhPsixgb2vANfDA?e=iJeC1a).
-
 I [tweet](https://twitter.com/axfelix) too much.
