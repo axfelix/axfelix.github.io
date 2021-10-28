@@ -10,6 +10,8 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I only blog when I get annoyed enough about being the only one in the world to have a particular problem; recently, this included [using CUDA under bash on Windows](cuda.md), which will happily [soon become unnecessary](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features).
 
+- I worked with the Software Preservation Network on creating the first draft of their [Reference Guide to Emulation](https://cocky-keller-94bd84.netlify.app/).
+
 - I previously wrote up a solution for [handling lossy video in Archivematica](ffv1.md), which is also now happily obsolete as related work has been upstreamed.
 
 - I don't like when there's a big gap between what I can do with shell scripts and what other people can do more easily so I made an OCR app called [ochre](https://github.com/axfelix/ochre).
