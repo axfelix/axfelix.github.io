@@ -1,5 +1,7 @@
 hi, I'm Alex! here is some work I'm proud of:
 
+- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean, where I currently work as Senior DevOps Technical Writer.
+
 - I created the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
 
 - I led a project to implement usable, lightweight zero-knowledge [encryption](https://github.com/jza201/frdr-secure-data) of sensitive data for repository deposit, using Hashicorp's [Vault](https://www.vaultproject.io/) platform, with Jin Zhang.
