@@ -8,8 +8,6 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I wrote the [desktop client](https://github.com/usask-rc/radiam-agent-releases/releases), which uses Electron and Python packed into a single binary for both GUI and CLI usage, for an indexer tool we developed called [Radiam](https://radiam.readthedocs.io/en/latest/), with my colleague Yang Zhou.
 
-- I used this same approach to make a user-friendly desktop GUI for preparing BagIt packages for deposit to our local repositories, called [MoveIt](https://github.com/axfelix/moveit-electron), inspired by earlier work done by Mark Jordan; I'm working on a companion app intended to replace the deprecated [bagger](https://github.com/LibraryOfCongress/bagger) project, which I'm calling [ProveIt](https://github.com/axfelix/dragbag).
-
 - I only blog when I get annoyed enough about being the only one in the world to have a particular problem; recently, this included [using CUDA under bash on Windows](cuda.md), which will happily [soon become unnecessary](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features).
 
 - I previously wrote up a solution for [handling lossy video in Archivematica](ffv1.md), which is also now happily obsolete as related work has been upstreamed.
@@ -21,10 +19,6 @@ hi, I'm Alex! here is some work I'm proud of:
 - I've spent more time than I tend to remember dealing with retro computing and emulation of all kinds; I like [original hardware](macs.jpg) but I'm no purist.
 
 - I keep a [complete-ish academic CV](agarnett.pdf); I've written recently about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
-
-- I produced an irregular podcast with my friend [Nic Weber](http://nicweber.info/) called [Success is Stupid](https://github.com/axfelix/axfelix.github.io/raw/master/sis0.mp3) (currently on hiatus, waiting for a good turnkey solution to self-host the archives).
-
-- I married [Justyna Berzowska](http://ambientstructures.ca/), who is a content strategist and user researcher that you should hire!
 
 - I love experimental videogames and I will shill for *Oikospiel*, *10 Beautiful Postcards*, *Astrologaster*, *Elsinore*, *Mirror Drop*, and many others. I [tell you all the time](https://lana.whosyourdad.de) (inspired by [Holly Gramazio](https://twitter.com/hollygramazio/status/1211703711275327489), desktop-only).
 
@@ -51,8 +45,6 @@ hi, I'm Alex! here is some work I'm proud of:
 - I contributed a little personal history to Ashley Blewer's [Internet Girlfriend Club](https://internetgirlfriend.club/volume9/3.html).
 
 - I also write [movie](https://letterboxd.com/cremaster6/film/ishtar/) and [book reviews](https://www.goodreads.com/review/show/3547539425) because I can't help myself.
-
-- I do my best to [reconcile](https://corona.whosyourdad.de/) myself to America in difficult times (warning: potentially upsetting imagery, desktop-only).
 
 - I [built a tower tumbling through your HVAC](https://www.youtube.com/watch?v=B4eSU1dNJA0).
 
