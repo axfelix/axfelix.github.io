@@ -28,8 +28,6 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - [Does it beep?](https://doesitbeep.com) I hope it doesn't beep.
 
-- I run a few instances of [open source](https://dukakis.ca) [replacements](https://gathio.dukakis.ca) for hosted services, mostly for local folks, just to make Facebook that little bit less unavoidable.
-
 - For many years I've also run what is in hindsight an [idealized example](https://selectbutton.net) of an Intentionally Small Social Network as outlined in [runyourown.social](https://runyourown.social/). Fair warning, you have to squint to see the best practices.
 
 - [Who's your dad.de](http://whosyourdad.de/)? I think I inadvertently stole the name for this project from [demi adejuyigbe](https://twitter.com/electrolemon/status/1182047291084959744?lang=en).
@@ -40,7 +38,6 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - In early 2021, I was at the Recurse Center, and (contrary to my stated reluctance) [I](blagg/21-1-6.md) [blogged](blagg/21-1-8.md) [intermittently](blagg/21-1-13.md) [as](blagg/21-1-19.md) [I](blagg/21-1-25.md) [went](blagg/21-1-29.md) [along](blagg/21-2-4.md). While at Recurse, I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://ffmpeg-on-ice.herokuapp.com/), and other experiments.
 
-- I once got upset about gentrification and wrote a [spooky story](homecoming.html) that doesn't have very much to do with gentrification.
 
 - I contributed a little personal history to Ashley Blewer's [Internet Girlfriend Club](https://internetgirlfriend.club/volume9/3.html).
 
