@@ -1,6 +1,6 @@
 hi, I'm Alex! here is some work I'm proud of:
 
-- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean, where I currently work as Senior DevOps Technical Writer.
+- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean.
 
 - I created the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
 
@@ -36,7 +36,7 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I also made a [much stupider bot](https://twitter.com/WifeProblem) by training GPT-2 on a corpus of Rodney Dangerfield, Don Rickles, and Borat, with help from Zach Foote. [(talk)](https://www.twitch.tv/videos/716588929?t=0h17m39s)
 
-- In early 2021, I was at the Recurse Center, and (contrary to my stated reluctance) [I](blagg/21-1-6.md) [blogged](blagg/21-1-8.md) [intermittently](blagg/21-1-13.md) [as](blagg/21-1-19.md) [I](blagg/21-1-25.md) [went](blagg/21-1-29.md) [along](blagg/21-2-4.md). While at Recurse, I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://ffmpeg-on-ice.herokuapp.com/), and other experiments.
+- In early 2021, I was at the Recurse Center, where I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://ffmpeg-on-ice.herokuapp.com/), and other experiments.
 
 
 - I contributed a little personal history to Ashley Blewer's [Internet Girlfriend Club](https://internetgirlfriend.club/volume9/3.html).
