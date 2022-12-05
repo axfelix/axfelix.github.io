@@ -1,12 +1,10 @@
 hi, I'm Alex! here is some work I'm proud of:
 
-- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean.
+- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean. I have a [resume](agarnett-resume.pdf) focused on this writing work.
 
 - I created the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
 
 - I led a project to implement usable, lightweight zero-knowledge [encryption](https://github.com/jza201/frdr-secure-data) of sensitive data for repository deposit, using Hashicorp's [Vault](https://www.vaultproject.io/) platform, with Jin Zhang.
-
-- I wrote the [desktop client](https://github.com/usask-rc/radiam-agent-releases/releases), which uses Electron and Python packed into a single binary for both GUI and CLI usage, for an indexer tool we developed called [Radiam](https://radiam.readthedocs.io/en/latest/), with my colleague Yang Zhou.
 
 - I only blog when I get annoyed enough about being the only one in the world to have a particular problem; recently, this included [using CUDA under bash on Windows](cuda.md), which will happily [soon become unnecessary](https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features).
 
@@ -18,7 +16,7 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I've spent more time than I tend to remember dealing with retro computing and emulation of all kinds; I like [original hardware](macs.jpg) but I'm no purist.
 
-- I keep a [complete-ish academic CV](agarnett.pdf); I've written recently about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
+- I keep a [complete-ish academic CV](agarnett.pdf); I've written about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
 
 - I love experimental videogames and I will shill for *Oikospiel*, *10 Beautiful Postcards*, *Astrologaster*, *Elsinore*, *Mirror Drop*, and many others. I [tell you all the time](https://lana.whosyourdad.de) (inspired by [Holly Gramazio](https://twitter.com/hollygramazio/status/1211703711275327489), desktop-only).
 
@@ -36,7 +34,7 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I also made a [much stupider bot](https://twitter.com/WifeProblem) by training GPT-2 on a corpus of Rodney Dangerfield, Don Rickles, and Borat, with help from Zach Foote. [(talk)](https://www.twitch.tv/videos/716588929?t=0h17m39s)
 
-- In early 2021, I was at the Recurse Center, where I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://ffmpeg-on-ice.herokuapp.com/), and other experiments.
+- In early 2021, I was at the Recurse Center, where I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://github.com/axfelix/ffmpegOnIce), and other experiments.
 
 
 - I contributed a little personal history to Ashley Blewer's [Internet Girlfriend Club](https://internetgirlfriend.club/volume9/3.html).
