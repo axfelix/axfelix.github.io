@@ -16,7 +16,7 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I've spent more time than I tend to remember dealing with retro computing and emulation of all kinds; I like [original hardware](macs.jpg) but I'm no purist.
 
-- I keep a [complete-ish academic CV](agarnett.pdf); I've written about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
+- In an academic context, I've written about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
 
 - I love experimental videogames and I will shill for *Oikospiel*, *10 Beautiful Postcards*, *Astrologaster*, *Elsinore*, *Mirror Drop*, and many others. I [tell you all the time](https://lana.whosyourdad.de) (inspired by [Holly Gramazio](https://twitter.com/hollygramazio/status/1211703711275327489), desktop-only).
 
