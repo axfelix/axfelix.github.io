@@ -1,6 +1,10 @@
 hi, I'm Alex! here is some work I'm proud of:
 
-- I've edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean. I have a [resume](agarnett-resume.pdf) focused on this writing work.
+- I'm currently doing DevRel at Bluesky! You can find other work on my [resume](agarnett-resume.pdf).
+
+- I'm a frequent speaker at [Write the Docs](https://www.youtube.com/watch?v=6p6LttjaSNM), one of my very favorite conferences.
+
+- I previously edited and [contributed](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04) [several](https://www.digitalocean.com/community/tutorials/how-to-set-up-squid-proxy-on-ubuntu-20-04) [tutorials](https://www.digitalocean.com/community/tutorials/how-to-deploy-to-kubernetes-using-argo-cd-and-gitops) to DigitalOcean.
 
 - I created the [harvester codebase](https://github.com/axfelix/frdr_harvest) for [FRDR](https://www.frdr-dfdr.ca/repo/), a Canadian national data portal, with Todd Trann and Kelly Stathis.
 
@@ -12,21 +16,15 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I don't like when there's a big gap between what I can do with shell scripts and what other people can do more easily so I made an OCR app called [ochre](https://github.com/axfelix/ochre).
 
-- I worked with the Software Preservation Network on creating the first draft of their [Reference Guide to Emulation](https://cocky-keller-94bd84.netlify.app/).
+- I worked with the Software Preservation Network on creating the first draft of their [Reference Guide to Emulation](https://www.clir.org/pubs/reports/an-overview-of-emulation-as-a-preservation-method/).
 
 - I've spent more time than I tend to remember dealing with retro computing and emulation of all kinds; I like [original hardware](macs.jpg) but I'm no purist.
 
 - In an academic context, I've written about [the use of ZFS-likes in memory institutions](papers/ipres18.pdf) and [WYSIWYG XML editors for academic publishing](https://www.ncbi.nlm.nih.gov/books/NBK425544/).
 
-- I love experimental videogames and I will shill for *Oikospiel*, *10 Beautiful Postcards*, *Astrologaster*, *Elsinore*, *Mirror Drop*, and many others. I [tell you all the time](https://lana.whosyourdad.de) (inspired by [Holly Gramazio](https://twitter.com/hollygramazio/status/1211703711275327489), desktop-only).
-
-- Along similar lines, I'm an enthusiastic script doctor, though I can get [sidetracked](https://youtu.be/gbFlO9WrojU) (download my patch [here](sft.vcdiff) or [here](sftr.vcdiff) depending on your copy of the game).
-
 - I developed an [interactive fiction game](kinski.html) about the Suez Canal starring Klaus Kinski, because if that doesn't shout "huge audience" I don't know what would.
 
 - [Does it beep?](https://doesitbeep.com) I hope it doesn't beep.
-
-- For many years I've also run what is in hindsight an [idealized example](https://selectbutton.net) of an Intentionally Small Social Network as outlined in [runyourown.social](https://runyourown.social/). Fair warning, you have to squint to see the best practices.
 
 - [Who's your dad.de](http://whosyourdad.de/)? I think I inadvertently stole the name for this project from [demi adejuyigbe](https://twitter.com/electrolemon/status/1182047291084959744?lang=en).
 
@@ -34,13 +32,8 @@ hi, I'm Alex! here is some work I'm proud of:
 
 - I also made a [much stupider bot](https://twitter.com/WifeProblem) by training GPT-2 on a corpus of Rodney Dangerfield, Don Rickles, and Borat, with help from Zach Foote. [(talk)](https://www.twitch.tv/videos/716588929?t=0h17m39s)
 
-- In early 2021, I was at the Recurse Center, where I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Fart Map](https://usa.whosyourdad.de), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://github.com/axfelix/ffmpegOnIce), and other experiments.
-
-
-- I contributed a little personal history to Ashley Blewer's [Internet Girlfriend Club](https://internetgirlfriend.club/volume9/3.html).
-
-- I also write [movie](https://letterboxd.com/cremaster6/film/ishtar/) and [book reviews](https://www.goodreads.com/review/show/3547539425) because I can't help myself.
+- In early 2021, I was at the Recurse Center, where I made [putz](https://pypi.org/project/putz/), [the Does it Beep browser extension](https://github.com/axfelix/doesitbeep-ext), [Eggs and Milk Minder 1.0c](https://github.com/axfelix/eggsandmilk), [To Bezier is Human](https://www.lexaloffle.com/bbs/?tid=41217), [ffmpeg on Ice](https://github.com/axfelix/ffmpegOnIce), and other experiments.
 
 - I [built a tower tumbling through your HVAC](https://www.youtube.com/watch?v=B4eSU1dNJA0).
 
-I [tweet](https://twitter.com/axfelix) too much.
+I [post](http://axfelix.bsky.social/) too much.
